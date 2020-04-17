@@ -11,3 +11,12 @@
 	• For training with qkeras we use this script: QKeras_testing.py
 
 	• For training with regular keras:  integer_scouting_model.py
+	
+	• ie_20Events_output_withoutV.txt: Inference on the board and in onnxruntime session to compare the outputs of 200 		instances (20 per 20 events), without "options","V"
+	
+	• ie_20Events_output_withV.txt: Inference on the board and in onnxruntime session to compare the outputs of 200 		instances (20 per 20 events), with "options","V"
+	
+	
+	
+	
+	
