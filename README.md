@@ -6,7 +6,7 @@
 	
 	• The script to convert from qkeras to onnx is: qkeras_to_onnx.py. To do this we use tf2onnx(ver 1.6). 
 
-	• The script for inference is: scouting_model_comparison_PvsB.py
+	• The script for inference is: scouting_model_comparison_PvsB_working.py
 
 	• For training with qkeras we use this script: QKeras_testing.py
 
